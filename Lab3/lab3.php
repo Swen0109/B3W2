@@ -8,9 +8,11 @@
 <body>
 	<form class="indeling" action="lab3.php" method="POST">
 		<h1>De ingevulde gegevens zijn:</h1>
-		Name:<input type="text" name="Naam"><br>
+
+		Name:<input type="text" name="Naam" required/><script>alert('hoi')</script><br>
+
 		Email:<input type="email" name="Email">
-		<input type="submit" name="verzenden" id="klaar">
+		<input type="submit" name="verzenden" id="klaar" required/>
 	</form>
 
 </body>
