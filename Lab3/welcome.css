@@ -1,0 +1,16 @@
+body{
+	background-color:lightblue;
+}
+
+.indeling{
+	position:absolute;
+	top:250px;
+	left:650px;
+}
+
+#klaar{
+	position:absolute;
+	top:230px;
+	width:100px;
+	left:70px;
+}
