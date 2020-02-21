@@ -128,3 +128,71 @@ div{
 	left:350px;
 	color:white;
 }
+
+.verhaal{
+	margin-top:120px;
+	font-size:24px;
+	color:black;
+}
+
+#twee2{
+	border:solid white: 2px;
+	height:300px;
+	background-color: white;
+	position:absolute;
+	top:200px;
+	left:250px;
+	width:1000px;
+	margin: 0 auto;
+	height:250px;
+}
+
+#drie2{
+	border:solid grey: 2px;
+	height:50px;
+	width:1000px;
+	position:absolute;
+	top:250px;
+	left:0px;
+	background-color:grey;
+}
+
+#body2{
+	background-color:#696969;
+	height:560px;
+}
+
+#twee3{
+	border:solid white: 2px;
+	height:300px;
+	background-color: white;
+	position:absolute;
+	top:200px;
+	left:250px;
+	width:1000px;
+	margin: 0 auto;
+	height:630px;
+}
+
+.verhaal2{
+	margin-top:120px;
+	font-size:24px;
+	color:black;
+	margin-left:15px;
+}
+
+#link1{
+	position:absolute;
+	top:10px;
+	font-size:24px;
+	left:280px;
+	color:white;
+}
+
+#link2{
+	position:absolute;
+	top:10px;
+	font-size:24px;
+	left:40px;
+	color:white;
+}
